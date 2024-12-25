@@ -1,0 +1,10 @@
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\bin\Debug\QTMWcfDealServiceTestApp.exe.config
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\bin\Debug\QTMWcfDealServiceTestApp.exe
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\bin\Debug\QTMWcfDealServiceTestApp.pdb
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\obj\Debug\QTMWcfDealServiceTestApp.csproj.AssemblyReference.cache
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\obj\Debug\QTMWcfDealServiceTestApp.frmServiceTest.resources
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\obj\Debug\QTMWcfDealServiceTestApp.Properties.Resources.resources
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\obj\Debug\QTMWcfDealServiceTestApp.csproj.GenerateResource.cache
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\obj\Debug\QTMWcfDealServiceTestApp.csproj.CoreCompileInputs.cache
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\obj\Debug\QTMWcfDealServiceTestApp.exe
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealServiceTestApp\obj\Debug\QTMWcfDealServiceTestApp.pdb

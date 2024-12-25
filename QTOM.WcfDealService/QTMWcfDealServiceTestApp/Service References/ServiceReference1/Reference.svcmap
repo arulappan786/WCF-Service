@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e82f7b4e-8906-41fc-98dd-d2d94903666e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://arulappan/QTMWcfDealService/SwapDealService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SwapDealService.xsd" MetadataType="Schema" ID="bf723720-99d2-463c-ab8d-d6419719bf26" SourceId="1" SourceUrl="http://arulappan/QTMWcfDealService/SwapDealService.svc?xsd=xsd2" />
+    <MetadataFile FileName="SwapDealService1.xsd" MetadataType="Schema" ID="e0b41a05-adf2-4a2d-9741-b049bcf2aafa" SourceId="1" SourceUrl="http://arulappan/QTMWcfDealService/SwapDealService.svc?xsd=xsd3" />
+    <MetadataFile FileName="SwapDealService2.xsd" MetadataType="Schema" ID="f1e52f85-b764-429e-a5a6-167efaf10fe1" SourceId="1" SourceUrl="http://arulappan/QTMWcfDealService/SwapDealService.svc?xsd=xsd1" />
+    <MetadataFile FileName="SwapDealService.wsdl" MetadataType="Wsdl" ID="336c88b3-2443-4058-bc00-4bc3cfcf94a6" SourceId="1" SourceUrl="http://arulappan/QTMWcfDealService/SwapDealService.svc?wsdl" />
+    <MetadataFile FileName="SwapDealService3.xsd" MetadataType="Schema" ID="71b1eb6f-bb4d-4594-ad34-26f9217791ea" SourceId="1" SourceUrl="http://arulappan/QTMWcfDealService/SwapDealService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

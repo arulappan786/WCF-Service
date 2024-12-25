@@ -1,0 +1,7 @@
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealService\bin\QTMWcfDealService.dll.config
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealService\bin\QTMWcfDealService.dll
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealService\bin\QTMWcfDealService.pdb
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealService\obj\Debug\QTMWcfDealService.csproj.AssemblyReference.cache
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealService\obj\Debug\QTMWcfDealService.csproj.CoreCompileInputs.cache
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealService\obj\Debug\QTMWcfDealService.dll
+C:\Arul\Source\WCF\QTOM.WcfDealService\QTMWcfDealService\obj\Debug\QTMWcfDealService.pdb
